@@ -1,0 +1,22 @@
+body{
+    margin-left: 50px;
+    background-color: #e9eaea;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: red;
+}
+h4{
+    color: grey;
+}
+a{
+    border: 5px solid red;
+    background-color: red;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color:pink;
+}
